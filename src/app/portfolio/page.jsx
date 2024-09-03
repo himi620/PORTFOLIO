@@ -24,9 +24,9 @@ const items = [
   {
     id: 3,
     color: "from-violet-300 to-purple-300",
-    title: "BINGE WATCHING",
-    desc: "Movie recommending website which recomment on your prefrence basis",
-    img: "https://images.pexels.com/photos/4009401/pexels-photo-4009401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    title: "Web Scrapper",
+    desc: "Web Scrapping website to scrapp amazon data",
+    img: "https://www.pexels.com/photo/opened-program-for-working-online-on-laptop-3888149/",
     link: "https://bigeeemovie.netlify.app/",
   },
   {

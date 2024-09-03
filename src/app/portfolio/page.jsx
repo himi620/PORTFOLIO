@@ -27,7 +27,7 @@ const items = [
     title: "Web Scrapper",
     desc: "Web Scrapping website to scrapp amazon data",
     img: "https://www.pexels.com/photo/opened-program-for-working-online-on-laptop-3888149/",
-    link: "https://bigeeemovie.netlify.app/",
+    link: "https://amazonpricescrapper.vercel.app/",
   },
   {
     id: 4,
